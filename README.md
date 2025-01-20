@@ -1,3 +1,8 @@
+[![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/dev.magicmq/jython-compiler?nexusVersion=3&server=https%3A%2F%2Frepo.magicmq.dev&label=Latest%20Release)](https://repo.magicmq.dev/#browse/browse:maven-releases:dev%2Fmagicmq%2Fjython-compiler)
+[![Latest Snapshot](https://img.shields.io/badge/dynamic/xml?color=orange&label=Latest%20Snapshot&query=%2F%2Fmetadata%2Fversioning%2Fversions%2Fversion%5Blast()%5D&url=https%3A%2F%2Frepo.magicmq.dev%2Frepository%2Fmaven-snapshots%2Fdev%2Fmagicmq%2Fjython-compiler%2Fmaven-metadata.xml)](https://repo.magicmq.dev/#browse/browse:maven-snapshots:dev%2Fmagicmq%2Fpyspigot)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/magicmq/JythonCompiler/maven.yml?branch=master)
+![Apache 2.0 License](https://img.shields.io/github/license/magicmq/JythonCompiler)
+
 # JythonCompiler
 
 JythonCompiler is a simple Java application that compiles Jython `.py` modules/packages into Java/Jython bytecode. This is meant to speed up usage of said modules at runtime when `.py` modules are distributed.
