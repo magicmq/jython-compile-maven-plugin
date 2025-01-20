@@ -123,9 +123,9 @@
     </build>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/magicmq/jython-compiler.git</connection>
-        <url>https://github.com/magicmq/jython-compiler</url>
-        <developerConnection>scm:git:ssh://git@github.com/magicmq/jython-compiler.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/magicmq/JythonCompiler.git</connection>
+        <url>https://github.com/magicmq/JythonCompiler</url>
+        <developerConnection>scm:git:ssh://git@github.com/magicmq/JythonCompiler.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
