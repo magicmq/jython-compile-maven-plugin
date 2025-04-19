@@ -4,7 +4,7 @@
 
     <groupId>dev.magicmq</groupId>
     <artifactId>jython-compile-maven-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>maven-plugin</packaging>
     <description>A Maven plugin that compiles Python .py files into .class files using Jython.</description>
 
@@ -135,7 +135,7 @@
         <connection>scm:git:ssh://git@github.com/magicmq/jython-compile-maven-plugin.git</connection>
         <url>https://github.com/magicmq/jython-compile-maven-plugin</url>
         <developerConnection>scm:git:ssh://git@github.com/magicmq/jython-compile-maven-plugin.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.1</tag>
     </scm>
 
     <distributionManagement>
