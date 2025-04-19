@@ -24,8 +24,6 @@ First, add the following repository to your POM:
 </repositories>
 ```
 
-The 
-
 Then, add the plugin to the `plugins` section of your POM:
 
 ```xml
